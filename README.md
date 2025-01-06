@@ -9,7 +9,7 @@ Sou um desenvolvedor júnior com 1 ano de experiência como desenvolvedor fullst
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=todo-vue.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=todo-vue&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 

@@ -6,3 +6,7 @@ Sou um desenvolvedor júnior com 1 ano de experiência como desenvolvedor fullst
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSa23&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=EduardoSa23.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

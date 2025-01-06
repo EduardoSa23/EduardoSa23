@@ -10,6 +10,7 @@ Sou um desenvolvedor júnior com 1 ano de experiência como desenvolvedor fullst
 ### Projetos
 > **Nota:** Clique com o botão direito no link e escolha "Abrir em uma nova guia" para acessar o projeto diretamente.
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denisxyz&repo=plotyx&theme=dark)](https://plotyx.com/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=todo-vue&theme=dark)](https://todo-vue-mu-lac.vercel.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=calculadora_vue&theme=dark)](https://calculadora-vue-inky.vercel.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=evento_aniversario&theme=dark)](https://evento-aniversario-s5t1.vercel.app/)

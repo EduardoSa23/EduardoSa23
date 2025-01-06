@@ -9,9 +9,9 @@ Sou um desenvolvedor júnior com 1 ano de experiência como desenvolvedor fullst
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=todo-vue&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=calculadora_vue&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=evento_aniversario&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=todo-vue&theme=dark)](https://todo-vue-mu-lac.vercel.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=calculadora_vue&theme=dark)](https://calculadora-vue-inky.vercel.app/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=evento_aniversario&theme=dark)](https://evento-aniversario-s5t1.vercel.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=sorteador_grunt&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=clone_disneyplus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=pagina_filme&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

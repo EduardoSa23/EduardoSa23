@@ -11,7 +11,7 @@ Sou um desenvolvedor júnior com 1 ano de experiência como desenvolvedor fullst
 > **Nota:** Clique com o botão direito no link e escolha "Abrir em uma nova guia" para acessar o projeto diretamente.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=ebac_sports&theme=dark)](https://ebac-sports-chi-cyan.vercel.app/)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=portf-lio&theme=dark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=portf-lio&theme=dark)](https://portf-lio-wi84.vercel.app/)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=base_exercicio_css_in_js&theme=dark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=calculo_imc&theme=dark)](https://calculo-imc-one-bay.vercel.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=github_perfil&theme=dark)](https://github-perfil-xi-lake.vercel.app/)

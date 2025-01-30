@@ -32,5 +32,5 @@ Sou um desenvolvedor júnior com 1 ano de experiência como desenvolvedor fullst
 
 ### Contatos
 
-[<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/sa-eduardo/)
+[![LinkedIn](https://img.shields.io/badge/-Meu%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sa-eduardo/)
 

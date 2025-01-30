@@ -5,7 +5,8 @@ Sou um desenvolvedor júnior com 1 ano de experiência como desenvolvedor fullst
 
 ### Detalhes
 
-[![Anurag's GitHub stats]("https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSa23&layout=compact&langs_count=7&theme=dracula")
+![GitHub Commit Graph](https://github-readme-stats.vercel.app/api/commits?username=EduardoSa23&count_private=true&theme=dracula)
+
 
 ### Projetos
 > **Nota:** Clique com o botão direito no link e escolha "Abrir em uma nova guia" para acessar o projeto diretamente.

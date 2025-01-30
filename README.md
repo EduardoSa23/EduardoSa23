@@ -5,7 +5,7 @@ Sou um desenvolvedor júnior com 1 ano de experiência como desenvolvedor fullst
 
 ### Detalhes
 
-![GitHub Commit Graph](https://github-readme-stats.vercel.app/api/commits?username=EduardoSa23&count_private=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSa23&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Projetos

@@ -9,7 +9,7 @@ Sou um desenvolvedor júnior com experiência no desenvolvimento Front-end. Com 
 
 ### Sites Publicados
 
-[![Plotyx](https://img.shields.io/badge/Acessar-Plotyx-blue?style=for-the-badge)](https://plotyx.com/)
+[![Plotyx](https://img.shields.io/badge/Acessar-Plotyx-blue?style=for-the-badge)](https://plotyx.com/)</br>
 [![NCW Brasil](https://img.shields.io/badge/Acessar-NCW_Brasil-green?style=for-the-badge)](https://www.ncwbrasil.com.br/)
 
 ### Projetos

@@ -7,13 +7,13 @@ Sou um desenvolvedor júnior com experiência no desenvolvimento Front-end. Com 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSa23&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🌐 Sites Publicados
+### 🌐 Projetos Publicados
 
 [![Plotyx](https://img.shields.io/badge/Acessar%20Plotyx-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://plotyx.com/)</br>
 [![NCW Brasil](https://img.shields.io/badge/Acessar%20NCW%20Brasil-004aad?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://www.ncwbrasil.com.br/)
 
 
-### Projetos
+### Projetos Acadêmicos
 > **Nota:** Clique com o botão direito no link e escolha "Abrir em uma nova guia" para acessar o projeto diretamente.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=lista-de-contatos&theme=dark)](https://lista-de-contatos-black-one.vercel.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=minhas-tarefas&theme=dark)](https://minhas-tarefas-black-one.vercel.app/)

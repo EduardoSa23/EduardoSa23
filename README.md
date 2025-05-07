@@ -11,7 +11,8 @@ Sou um desenvolvedor júnior com experiência no desenvolvimento Front-end. Com 
 ### Projetos
 > **Nota:** Clique com o botão direito no link e escolha "Abrir em uma nova guia" para acessar o projeto diretamente.
 
-[![Readme Card]](https://ncwbrasil.com.br)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=lista-de-contatos&theme=dark)](https://lista-de-contatos-black-one.vercel.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=minhas-tarefas&theme=dark)](https://minhas-tarefas-black-one.vercel.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=ebac_sports&theme=dark)](https://ebac-sports-chi-cyan.vercel.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=portf-lio&theme=dark)](https://portf-lio-wi84.vercel.app/)

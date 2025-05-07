@@ -14,8 +14,6 @@ Sou um desenvolvedor júnior com experiência no desenvolvimento Front-end. Com 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=lista-de-contatos&theme=dark)](https://lista-de-contatos-black-one.vercel.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=minhas-tarefas&theme=dark)](https://minhas-tarefas-black-one.vercel.app/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=ebac_sports&theme=dark)](https://ebac-sports-chi-cyan.vercel.app/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=portf-lio&theme=dark)](https://portf-lio-wi84.vercel.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=base_exercicio_css_in_js&theme=dark)](https://base-exercicio-css-in-js-hazel.vercel.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=calculo_imc&theme=dark)](https://calculo-imc-one-bay.vercel.app/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EduardoSa23&repo=github_perfil&theme=dark)](https://github-perfil-xi-lake.vercel.app/)

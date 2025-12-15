@@ -22,7 +22,7 @@ Atualmente, sigo evoluindo para um perfil **Front-end Pleno**, aprofundando conh
 - HTML5, CSS3, JavaScript (ES6+), TypeScript  
 
 **Frameworks & Bibliotecas**  
-- React, Vue.js, jQuery  
+- React, Angular, jQuery  
 
 **Estilização**  
 - Tailwind CSS, Bootstrap, SASS, LESS  

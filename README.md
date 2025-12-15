@@ -35,9 +35,9 @@ Atualmente, sigo evoluindo para um perfil **Front-end Pleno**, aprofundando conh
 
 ---
 
-### 📊 Atividade de Commits
+### 🔥 GitHub Streak
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EduardoSa23&theme=github-compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=EduardoSa23&theme=dark)
 
 
 ### 📊 GitHub Stats

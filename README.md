@@ -35,6 +35,11 @@ Atualmente, sigo evoluindo para um perfil **Front-end Pleno**, aprofundando conh
 
 ---
 
+### 📊 Atividade de Commits
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EduardoSa23&theme=github-compact)
+
+
 ### 📊 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoSa23&show_icons=true&theme=dark)](https://github.com/EduardoSa23)

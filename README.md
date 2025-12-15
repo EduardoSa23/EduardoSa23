@@ -35,9 +35,9 @@ Atualmente, sigo evoluindo para um perfil **Front-end Pleno**, aprofundando conh
 
 ---
 
-### 🔥 GitHub Streak
+### 📈 Métricas de Código
 
-![GitHub Streak](https://streak-stats.demolab.com?user=EduardoSa23&theme=dark)
+![Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoSa23&theme=github_dark)
 
 
 ### 📊 GitHub Stats

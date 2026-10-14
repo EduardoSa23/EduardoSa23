@@ -1,37 +1,10 @@
-## Olá, eu sou o Eduardo Sá 👋
+Sou Desenvolvedor Frontend pleno, com experiência no desenvolvimento de aplicações web e interfaces modernas, utilizando HTML, CSS, JavaScript, TypeScript, React, Angular, jQuery, Bootstrap e Tailwind CSS.
 
-Desenvolvedor **Front-end Júnior**, formado em **Análise e Desenvolvimento de Sistemas**, com foco em criar interfaces modernas, performáticas e acessíveis. Tenho experiência prática com projetos reais e acadêmicos, atuando principalmente com **React, TypeScript e JavaScript**, além de automação e otimização de fluxos de trabalho.
+Atualmente, trabalho na Silo Prime, atuando no desenvolvimento e evolução de um sistema voltado para prefeituras, contribuindo principalmente com Front-End, UI/UX e integração com APIs.
 
-Atualmente, sigo evoluindo para um perfil **Front-end Pleno**, aprofundando conhecimentos em arquitetura de aplicações, performance, testes e boas práticas de UI/UX.
+Neste momento, também estou dando um novo passo na minha carreira, aprofundando meus conhecimentos em C#, .NET, APIs, banco de dados e segurança, com o objetivo de expandir minha atuação para o Back-End e me tornar um desenvolvedor Full Stack.
 
----
-
-### 🚀 O que eu faço
-- Desenvolvimento de interfaces responsivas e reutilizáveis  
-- Criação de landing pages, web apps e dashboards  
-- Integração com APIs REST  
-- Automação de tarefas com Gulp / Grunt  
-- Organização de código e componentização  
-- Boas práticas de UX/UI e acessibilidade  
-
----
-
-### 🧠 Tecnologias & Ferramentas
-
-**Linguagens**  
-- HTML5, CSS3, JavaScript (ES6+), TypeScript  
-
-**Frameworks & Bibliotecas**  
-- React, Angular, jQuery  
-
-**Estilização**  
-- Tailwind CSS, Bootstrap, SASS, LESS  
-
-**Ferramentas & Workflow**  
-- Node.js, Gulp, Grunt, Git & GitHub, Vercel  
-
-**Outros conhecimentos**  
-- Consumo de APIs, responsividade, SEO básico, performance web  
+Busco sempre evoluir tecnicamente, aprender novas tecnologias e transformar esse conhecimento em soluções reais.
 
 ---
 
